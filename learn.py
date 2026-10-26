@@ -111,3 +111,11 @@ def repeat_share(database):
             this_week += [d in seen for d in dishes]
         seen.update(dishes)
     return round(100 * sum(this_week) / len(this_week)) if this_week else None
+
+# Streamlit's servers run on UTC; show and group meals by Indian time.
+import os, time
+os.environ["TZ"] = "Asia/Kolkata"
+if hasattr(time, "tzset"):
+    time.tzset()
+
+"import learn, os; print(os.environ['TZ'])"

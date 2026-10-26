@@ -114,7 +114,7 @@ def repeat_share(database):
 
 # Streamlit's servers run on UTC; show and group meals by Indian time.
 import os, time
-os.environ["TZ"] = "Asia/Kolkata"
+os.environ["TZ"] = "IST-5:30"
 if hasattr(time, "tzset"):
     time.tzset()
 

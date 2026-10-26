@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+uploads/
+evidence/
+backup_before_v5_reshape/

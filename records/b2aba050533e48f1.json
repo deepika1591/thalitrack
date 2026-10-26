@@ -1,0 +1,109 @@
+{
+  "photo": "b2aba050533e48f1.jpg",
+  "model": "gemini-3.8-flash",
+  "tokens": {
+    "in": 2087,
+    "out": 581,
+    "thinking": 1058
+  },
+  "reading": {
+    "items": [
+      {
+        "dish": "veg pulao",
+        "alternatives": [
+          "fried rice",
+          "jeera rice"
+        ],
+        "amount": 1,
+        "unit": "cup",
+        "confidence": 0.8
+      },
+      {
+        "dish": "paratha",
+        "alternatives": [
+          "roti",
+          "naan"
+        ],
+        "amount": 2,
+        "unit": "piece",
+        "confidence": 0.85
+      },
+      {
+        "dish": "papad",
+        "alternatives": [],
+        "amount": 1,
+        "unit": "piece",
+        "confidence": 0.95
+      },
+      {
+        "dish": "curd",
+        "alternatives": [
+          "onion raita",
+          "phirni"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.85
+      },
+      {
+        "dish": "sweet corn soup",
+        "alternatives": [
+          "veg clear soup"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.8
+      },
+      {
+        "dish": "malai kofta",
+        "alternatives": [
+          "dum aloo",
+          "aloo curry"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.75
+      },
+      {
+        "dish": "dal",
+        "alternatives": [
+          "sambar",
+          "moong dal",
+          "chana dal"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.85
+      },
+      {
+        "dish": "paneer butter masala",
+        "alternatives": [
+          "shahi paneer",
+          "kadai paneer",
+          "chicken curry"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.75
+      },
+      {
+        "dish": "mixed veg curry",
+        "alternatives": [
+          "kadai veg",
+          "aloo curry"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.7
+      },
+      {
+        "dish": "salad",
+        "alternatives": [],
+        "amount": 2,
+        "unit": "tbsp",
+        "confidence": 0.9
+      }
+    ],
+    "other_diners": []
+  }
+}

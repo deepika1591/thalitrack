@@ -118,4 +118,3 @@ os.environ["TZ"] = "Asia/Kolkata"
 if hasattr(time, "tzset"):
     time.tzset()
 
-"import learn, os; print(os.environ['TZ'])"

@@ -1,0 +1,150 @@
+{
+  "photo": "12_the_traditional_rajasthani_thali.jpg",
+  "model": "gemini-3.8-flash",
+  "tokens": {
+    "in": 2107,
+    "out": 810,
+    "thinking": 2794
+  },
+  "reading": {
+    "items": [
+      {
+        "dish": "bajra roti",
+        "alternatives": [
+          "makki roti",
+          "roti",
+          "missi roti"
+        ],
+        "amount": 1,
+        "unit": "piece",
+        "confidence": 0.85
+      },
+      {
+        "dish": "bajra khichdi",
+        "alternatives": [
+          "churma",
+          "plain rice",
+          "upma"
+        ],
+        "amount": 1,
+        "unit": "cup",
+        "confidence": 0.8
+      },
+      {
+        "dish": "ker sangri",
+        "alternatives": [
+          "kala chana",
+          "bhindi fry",
+          "mix veg dry"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.95
+      },
+      {
+        "dish": "gatte",
+        "alternatives": [
+          "gatte ki sabzi",
+          "aloo fry",
+          "aloo sabzi"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.8
+      },
+      {
+        "dish": "salad",
+        "alternatives": [
+          "onion raita"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.95
+      },
+      {
+        "dish": "white butter",
+        "alternatives": [],
+        "amount": 2,
+        "unit": "tbsp",
+        "confidence": 0.9
+      },
+      {
+        "dish": "garlic chutney",
+        "alternatives": [
+          "tomato chutney",
+          "pickle",
+          "green chutney"
+        ],
+        "amount": 1,
+        "unit": "tbsp",
+        "confidence": 0.85
+      },
+      {
+        "dish": "green chutney",
+        "alternatives": [
+          "pickle",
+          "garlic chutney"
+        ],
+        "amount": 1,
+        "unit": "tbsp",
+        "confidence": 0.8
+      },
+      {
+        "dish": "kadhi",
+        "alternatives": [
+          "dal",
+          "panchmel dal",
+          "moong dal"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.85
+      },
+      {
+        "dish": "dal",
+        "alternatives": [
+          "panchmel dal",
+          "moong dal",
+          "sambar"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.85
+      },
+      {
+        "dish": "gatte ki sabzi",
+        "alternatives": [
+          "paneer butter masala",
+          "aloo curry",
+          "mixed veg curry"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.7
+      },
+      {
+        "dish": "malai kofta",
+        "alternatives": [
+          "kadhi pakora",
+          "gatte ki sabzi",
+          "mixed veg curry"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.6
+      },
+      {
+        "dish": "moong dal halwa",
+        "alternatives": [
+          "churma",
+          "sooji halwa",
+          "gajar halwa"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.8
+      }
+    ],
+    "other_diners": []
+  }
+}

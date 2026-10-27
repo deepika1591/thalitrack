@@ -1,0 +1,57 @@
+{
+  "photo": "04_vegetarian_thali_from_kolkata_2.jpg",
+  "model": "gemini-3.8-flash",
+  "tokens": {
+    "in": 2071,
+    "out": 276,
+    "thinking": 1616
+  },
+  "reading": {
+    "items": [
+      {
+        "dish": "plain rice",
+        "alternatives": [
+          "ghee rice",
+          "jeera rice"
+        ],
+        "amount": 1.5,
+        "unit": "cup",
+        "confidence": 0.95
+      },
+      {
+        "dish": "aloo jhuri bhaja",
+        "alternatives": [
+          "aloo fry",
+          "mix veg dry"
+        ],
+        "amount": 2,
+        "unit": "tbsp",
+        "confidence": 0.9
+      },
+      {
+        "dish": "saag",
+        "alternatives": [
+          "keerai",
+          "mix veg dry"
+        ],
+        "amount": 2,
+        "unit": "tbsp",
+        "confidence": 0.85
+      },
+      {
+        "dish": "kumro bata",
+        "alternatives": [
+          "kumro chhechki",
+          "aloo bhaji"
+        ],
+        "amount": 2,
+        "unit": "tbsp",
+        "confidence": 0.8
+      }
+    ],
+    "other_diners": [
+      "plate with lemon slices",
+      "bowl with chillies"
+    ]
+  }
+}

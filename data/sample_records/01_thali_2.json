@@ -1,0 +1,51 @@
+{
+  "photo": "01_thali_2.jpg",
+  "model": "gemini-3.8-flash",
+  "tokens": {
+    "in": 2071,
+    "out": 240,
+    "thinking": 467
+  },
+  "reading": {
+    "items": [
+      {
+        "dish": "plain rice",
+        "alternatives": [],
+        "amount": 2,
+        "unit": "cup",
+        "confidence": 0.95
+      },
+      {
+        "dish": "omelette",
+        "alternatives": [],
+        "amount": 1,
+        "unit": "piece",
+        "confidence": 0.95
+      },
+      {
+        "dish": "dal",
+        "alternatives": [
+          "sambar",
+          "rasam"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.9
+      },
+      {
+        "dish": "egg curry",
+        "alternatives": [
+          "chicken curry",
+          "aloo curry",
+          "fish curry"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.7
+      }
+    ],
+    "other_diners": [
+      "plate of rice"
+    ]
+  }
+}

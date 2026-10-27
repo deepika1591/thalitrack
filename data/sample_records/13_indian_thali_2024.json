@@ -1,0 +1,86 @@
+{
+  "photo": "13_indian_thali_2024.jpg",
+  "model": "gemini-3.8-flash",
+  "tokens": {
+    "in": 2071,
+    "out": 433,
+    "thinking": 5846
+  },
+  "reading": {
+    "items": [
+      {
+        "dish": "plain rice",
+        "alternatives": [
+          "jeera rice",
+          "ghee rice"
+        ],
+        "amount": 1,
+        "unit": "cup",
+        "confidence": 0.95
+      },
+      {
+        "dish": "roti",
+        "alternatives": [
+          "tandoori roti",
+          "paratha",
+          "bajra roti"
+        ],
+        "amount": 3,
+        "unit": "piece",
+        "confidence": 0.95
+      },
+      {
+        "dish": "dal",
+        "alternatives": [
+          "sambar",
+          "chana dal",
+          "moong dal"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.9
+      },
+      {
+        "dish": "paneer bhurji",
+        "alternatives": [
+          "matar paneer",
+          "egg bhurji",
+          "mixed veg curry"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.85
+      },
+      {
+        "dish": "salad",
+        "alternatives": [
+          "sprouts salad",
+          "onion raita"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.95
+      },
+      {
+        "dish": "pickle",
+        "alternatives": [
+          "tomato chutney",
+          "garlic chutney"
+        ],
+        "amount": 1,
+        "unit": "tbsp",
+        "confidence": 0.95
+      },
+      {
+        "dish": "papad",
+        "alternatives": [
+          "sandige"
+        ],
+        "amount": 1,
+        "unit": "piece",
+        "confidence": 0.95
+      }
+    ],
+    "other_diners": []
+  }
+}

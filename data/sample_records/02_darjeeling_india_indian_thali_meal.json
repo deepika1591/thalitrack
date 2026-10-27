@@ -1,0 +1,111 @@
+{
+  "photo": "02_darjeeling_india_indian_thali_meal.jpg",
+  "model": "gemini-3.8-flash",
+  "tokens": {
+    "in": 2087,
+    "out": 592,
+    "thinking": 1182
+  },
+  "reading": {
+    "items": [
+      {
+        "dish": "veg pulao",
+        "alternatives": [
+          "fried rice",
+          "jeera rice",
+          "plain rice"
+        ],
+        "amount": 1,
+        "unit": "cup",
+        "confidence": 0.85
+      },
+      {
+        "dish": "paratha",
+        "alternatives": [
+          "roti",
+          "plain dosa"
+        ],
+        "amount": 2,
+        "unit": "piece",
+        "confidence": 0.9
+      },
+      {
+        "dish": "papad",
+        "alternatives": [],
+        "amount": 1,
+        "unit": "piece",
+        "confidence": 0.95
+      },
+      {
+        "dish": "curd",
+        "alternatives": [
+          "phirni",
+          "rice kheer"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.85
+      },
+      {
+        "dish": "sweet corn soup",
+        "alternatives": [
+          "veg clear soup"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.9
+      },
+      {
+        "dish": "malai kofta",
+        "alternatives": [
+          "dum aloo",
+          "mixed veg curry"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.85
+      },
+      {
+        "dish": "dal",
+        "alternatives": [
+          "sambar",
+          "moong dal",
+          "chana dal"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.9
+      },
+      {
+        "dish": "paneer butter masala",
+        "alternatives": [
+          "shahi paneer",
+          "kadai paneer",
+          "matar paneer"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.85
+      },
+      {
+        "dish": "mixed veg curry",
+        "alternatives": [
+          "kadai veg",
+          "aloo sabzi",
+          "kurma"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.8
+      },
+      {
+        "dish": "salad",
+        "alternatives": [],
+        "amount": 2,
+        "unit": "tbsp",
+        "confidence": 0.9
+      }
+    ],
+    "other_diners": []
+  }
+}

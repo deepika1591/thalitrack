@@ -1,0 +1,89 @@
+{
+  "photo": "09_vegetarian_thali_ccmb_hyderabad_mess_telangana_pic1.jpg",
+  "model": "gemini-3.8-flash",
+  "tokens": {
+    "in": 2073,
+    "out": 448,
+    "thinking": 2579
+  },
+  "reading": {
+    "items": [
+      {
+        "dish": "plain rice",
+        "alternatives": [
+          "jeera rice",
+          "curd rice"
+        ],
+        "amount": 1,
+        "unit": "cup",
+        "confidence": 0.95
+      },
+      {
+        "dish": "veg pulao",
+        "alternatives": [
+          "fried rice",
+          "jeera rice",
+          "veg biryani"
+        ],
+        "amount": 1,
+        "unit": "cup",
+        "confidence": 0.85
+      },
+      {
+        "dish": "curd",
+        "alternatives": [
+          "phirni",
+          "buttermilk",
+          "sweet lassi"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.8
+      },
+      {
+        "dish": "dal",
+        "alternatives": [
+          "sambar",
+          "moong dal",
+          "chana dal"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.9
+      },
+      {
+        "dish": "onion raita",
+        "alternatives": [
+          "beetroot raita",
+          "mixed raita",
+          "curd"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.7
+      },
+      {
+        "dish": "sweet corn soup",
+        "alternatives": [
+          "sweet corn kheer",
+          "boondi raita",
+          "rice kheer"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.75
+      },
+      {
+        "dish": "salad",
+        "alternatives": [
+          "kosambari",
+          "sprouts salad"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.95
+      }
+    ],
+    "other_diners": []
+  }
+}

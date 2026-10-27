@@ -1,0 +1,71 @@
+{
+  "photo": "14_homemade_thali_maharashtrian_thali.jpg",
+  "model": "gemini-3.8-flash",
+  "tokens": {
+    "in": 2087,
+    "out": 350,
+    "thinking": 930
+  },
+  "reading": {
+    "items": [
+      {
+        "dish": "plain rice",
+        "alternatives": [
+          "jeera rice"
+        ],
+        "amount": 1,
+        "unit": "cup",
+        "confidence": 0.95
+      },
+      {
+        "dish": "puri",
+        "alternatives": [
+          "paratha",
+          "roti"
+        ],
+        "amount": 3,
+        "unit": "piece",
+        "confidence": 0.9
+      },
+      {
+        "dish": "dal",
+        "alternatives": [
+          "moong dal",
+          "sambar",
+          "kadhi"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.9
+      },
+      {
+        "dish": "aloo sabzi",
+        "alternatives": [
+          "aloo bhaji",
+          "jeera aloo",
+          "aloo fry"
+        ],
+        "amount": 0.5,
+        "unit": "katori",
+        "confidence": 0.85
+      },
+      {
+        "dish": "patra",
+        "alternatives": [],
+        "amount": 3,
+        "unit": "piece",
+        "confidence": 0.95
+      },
+      {
+        "dish": "fried green chilli",
+        "alternatives": [
+          "pickle"
+        ],
+        "amount": 1,
+        "unit": "piece",
+        "confidence": 0.95
+      }
+    ],
+    "other_diners": []
+  }
+}

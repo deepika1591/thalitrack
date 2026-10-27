@@ -1,0 +1,144 @@
+{
+  "photo": "03_arunachal_pradesh_thali_01.jpg",
+  "model": "gemini-3.8-flash",
+  "tokens": {
+    "in": 2085,
+    "out": 783,
+    "thinking": 8000
+  },
+  "reading": {
+    "items": [
+      {
+        "dish": "plain rice",
+        "alternatives": [
+          "jeera rice",
+          "ghee rice"
+        ],
+        "amount": 1.5,
+        "unit": "cup",
+        "confidence": 0.95
+      },
+      {
+        "dish": "papad",
+        "alternatives": [
+          "sandige"
+        ],
+        "amount": 1,
+        "unit": "piece",
+        "confidence": 0.95
+      },
+      {
+        "dish": "kala chana",
+        "alternatives": [
+          "kala chana curry",
+          "chana masala"
+        ],
+        "amount": 0.5,
+        "unit": "katori",
+        "confidence": 0.9
+      },
+      {
+        "dish": "bhindi fry",
+        "alternatives": [
+          "bhindi masala"
+        ],
+        "amount": 0.5,
+        "unit": "katori",
+        "confidence": 0.9
+      },
+      {
+        "dish": "karela fry",
+        "alternatives": [
+          "parwal fry",
+          "mix veg dry",
+          "kumro chhechki"
+        ],
+        "amount": 0.5,
+        "unit": "katori",
+        "confidence": 0.75
+      },
+      {
+        "dish": "aloo fry",
+        "alternatives": [
+          "aloo bhaji",
+          "jeera aloo",
+          "aloo sabzi"
+        ],
+        "amount": 0.5,
+        "unit": "katori",
+        "confidence": 0.85
+      },
+      {
+        "dish": "fried green chilli",
+        "alternatives": [],
+        "amount": 1,
+        "unit": "piece",
+        "confidence": 0.95
+      },
+      {
+        "dish": "salad",
+        "alternatives": [
+          "sprouts salad"
+        ],
+        "amount": 0.5,
+        "unit": "katori",
+        "confidence": 0.9
+      },
+      {
+        "dish": "dal",
+        "alternatives": [
+          "sambar",
+          "rasam",
+          "kadhi"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.9
+      },
+      {
+        "dish": "saag",
+        "alternatives": [
+          "keerai"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.85
+      },
+      {
+        "dish": "aloo soya curry",
+        "alternatives": [
+          "aloo curry",
+          "dum aloo",
+          "mixed veg curry"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.8
+      },
+      {
+        "dish": "pickle",
+        "alternatives": [
+          "tomato chutney"
+        ],
+        "amount": 1,
+        "unit": "tbsp",
+        "confidence": 0.9
+      },
+      {
+        "dish": "green chutney",
+        "alternatives": [
+          "coconut chutney"
+        ],
+        "amount": 1,
+        "unit": "tbsp",
+        "confidence": 0.9
+      }
+    ],
+    "other_diners": [
+      "dal",
+      "salad",
+      "pickle",
+      "green chutney"
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "_about": "Reviewed answer key for the 15 benchmark photos. Each item lists the dish names that count as an exact match (canonical names from dishes.json), a portion, and a unit (katori ~150 ml, cup ~240 ml, tbsp ~15 ml, piece). Items with \"unknown\": true score for being detected, whatever the model calls them. Built from gold_DRAFT.md, 20 Oct 2026.",
+  "photos": {
+    "01_thali_2": {"tags": ["angle", "multi"], "items": [
+      {"names": ["plain rice"], "amount": 2, "unit": "cup"},
+      {"names": ["dal"], "amount": 1, "unit": "katori"},
+      {"names": ["omelette"], "amount": 1, "unit": "piece"},
+      {"names": ["aloo curry", "dum aloo"], "amount": 0.5, "unit": "katori"}
+    ]},
+    "02_darjeeling_india_indian_thali_meal": {"tags": ["crowded"], "items": [
+      {"names": ["veg pulao"], "amount": 1, "unit": "cup"},
+      {"names": ["paratha"], "amount": 2, "unit": "piece"},
+      {"names": ["papad"], "amount": 1, "unit": "piece"},
+      {"names": ["curd"], "amount": 1, "unit": "katori"},
+      {"names": ["sweet corn soup"], "amount": 1, "unit": "katori"},
+      {"names": ["malai kofta"], "amount": 1, "unit": "katori"},
+      {"names": ["dal"], "amount": 1, "unit": "katori"},
+      {"names": ["paneer butter masala"], "amount": 1, "unit": "katori"},
+      {"names": ["mixed veg curry", "baingan curry"], "amount": 1, "unit": "katori"},
+      {"names": ["salad"], "amount": 2, "unit": "tbsp"}
+    ]},
+    "03_arunachal_pradesh_thali_01": {"tags": ["crowded", "multi", "regional"], "items": [
+      {"names": ["plain rice"], "amount": 1.5, "unit": "cup"},
+      {"names": ["papad"], "amount": 1, "unit": "piece"},
+      {"names": ["kala chana"], "amount": 0.25, "unit": "cup"},
+      {"names": ["bhindi fry"], "amount": 0.25, "unit": "cup"},
+      {"names": ["aloo fry"], "amount": 0.25, "unit": "cup"},
+      {"unknown": true, "amount": 0.25, "unit": "cup"},
+      {"unknown": true, "amount": 2, "unit": "piece"},
+      {"names": ["salad"], "amount": 2, "unit": "tbsp"},
+      {"names": ["dal"], "amount": 1, "unit": "katori"},
+      {"names": ["aloo soya curry"], "amount": 1, "unit": "katori"},
+      {"names": ["saag"], "amount": 0.5, "unit": "katori"},
+      {"names": ["salad"], "amount": 0.5, "unit": "cup"},
+      {"names": ["pickle"], "amount": 1, "unit": "tbsp"},
+      {"names": ["green chutney"], "amount": 1, "unit": "tbsp"}
+    ]},
+    "04_vegetarian_thali_from_kolkata_2": {"tags": ["angle", "regional"], "items": [
+      {"names": ["plain rice"], "amount": 1.5, "unit": "cup"},
+      {"names": ["saag"], "amount": 0.25, "unit": "cup"},
+      {"names": ["kumro chhechki"], "amount": 0.25, "unit": "cup"},
+      {"names": ["aloo jhuri bhaja"], "amount": 2, "unit": "tbsp"}
+    ]},
+    "05_traditional_bengali_thali_1": {"tags": ["regional"], "items": [
+      {"names": ["puri"], "amount": 4, "unit": "piece"},
+      {"names": ["aloo curry", "dum aloo"], "amount": 1, "unit": "katori"},
+      {"names": ["begun bhaja"], "amount": 1, "unit": "piece"},
+      {"names": ["fruit salad"], "amount": 0.5, "unit": "cup"},
+      {"names": ["laddoo"], "amount": 1, "unit": "piece"}
+    ]},
+    "06_a_non_vegetarian_thali_in_karnataka": {"tags": ["crowded"], "items": [
+      {"names": ["plain rice"], "amount": 1.5, "unit": "cup"},
+      {"names": ["roti"], "amount": 2, "unit": "piece"},
+      {"names": ["chicken curry"], "amount": 1, "unit": "katori"},
+      {"names": ["chicken fry"], "amount": 0.5, "unit": "katori"},
+      {"names": ["curd"], "amount": 1, "unit": "katori"},
+      {"names": ["semiya payasam"], "amount": 1, "unit": "katori"},
+      {"names": ["dal"], "amount": 1, "unit": "katori"},
+      {"names": ["rasam"], "amount": 1, "unit": "katori"},
+      {"names": ["sambar"], "amount": 1, "unit": "katori"},
+      {"names": ["sandige"], "amount": 1, "unit": "piece"}
+    ]},
+    "07_mithila_thali_food": {"tags": ["regional", "angle"], "items": [
+      {"names": ["roti"], "amount": 4, "unit": "piece"},
+      {"names": ["dal"], "amount": 1, "unit": "katori"},
+      {"names": ["aloo curry", "aloo sabzi"], "amount": 1, "unit": "katori"},
+      {"names": ["curd"], "amount": 0.5, "unit": "katori"},
+      {"names": ["saag"], "amount": 2, "unit": "tbsp"},
+      {"names": ["tomato chutney"], "amount": 1, "unit": "tbsp"},
+      {"unknown": true, "amount": 2, "unit": "tbsp"},
+      {"names": ["aloo fry", "parwal fry"], "amount": 0.25, "unit": "cup"},
+      {"names": ["salad"], "amount": 2, "unit": "tbsp"}
+    ]},
+    "08_indian_thali_with_poori_and_rice": {"tags": ["angle"], "items": [
+      {"names": ["plain rice"], "amount": 1.5, "unit": "cup"},
+      {"names": ["puri"], "amount": 2, "unit": "piece"},
+      {"names": ["curd"], "amount": 1, "unit": "katori"},
+      {"names": ["sambar"], "amount": 1, "unit": "katori"},
+      {"names": ["dal"], "amount": 1, "unit": "katori"},
+      {"names": ["rasam"], "amount": 1, "unit": "katori"},
+      {"names": ["dal", "kurma"], "amount": 1, "unit": "katori"}
+    ]},
+    "09_vegetarian_thali_ccmb_hyderabad_mess_telangana_pic1": {"tags": ["lighting"], "items": [
+      {"names": ["plain rice"], "amount": 1, "unit": "katori"},
+      {"names": ["veg pulao"], "amount": 1, "unit": "katori"},
+      {"names": ["dal"], "amount": 1, "unit": "katori"},
+      {"names": ["curd"], "amount": 1, "unit": "katori"},
+      {"names": ["boondi raita"], "amount": 1, "unit": "katori"},
+      {"names": ["beetroot raita", "phirni"], "amount": 1, "unit": "katori"},
+      {"names": ["salad"], "amount": 1, "unit": "katori"}
+    ]},
+    "10_south_indian_vegetarian_thali_served_on_a_banana_leaf_hyderabad": {"tags": ["crowded", "leaf"], "items": [
+      {"names": ["veg pulao"], "amount": 1, "unit": "katori"},
+      {"names": ["cabbage cauliflower sabzi"], "amount": 1, "unit": "katori"},
+      {"names": ["paneer butter masala"], "amount": 1, "unit": "katori"},
+      {"names": ["mixed veg curry"], "amount": 1, "unit": "katori"},
+      {"names": ["mixed veg curry", "kadai paneer", "matar paneer"], "amount": 1, "unit": "katori"},
+      {"names": ["mixed veg curry", "mushroom masala"], "amount": 1, "unit": "katori"},
+      {"unknown": true, "amount": 1, "unit": "katori"},
+      {"names": ["dahi vada"], "amount": 1, "unit": "katori"},
+      {"names": ["buttermilk", "curd"], "amount": 1, "unit": "katori"},
+      {"names": ["gulab jamun"], "amount": 1, "unit": "piece"},
+      {"names": ["papad"], "amount": 1, "unit": "piece"},
+      {"names": ["spring roll"], "amount": 1, "unit": "piece"}
+    ]},
+    "11_saapadhu": {"tags": ["leaf", "angle"], "items": [
+      {"names": ["plain rice"], "amount": 2, "unit": "cup"},
+      {"names": ["beans poriyal"], "amount": 0.25, "unit": "cup"},
+      {"names": ["keerai"], "amount": 0.25, "unit": "cup"},
+      {"names": ["kootu"], "amount": 0.25, "unit": "cup"},
+      {"unknown": true, "amount": 1, "unit": "tbsp"}
+    ]},
+    "12_the_traditional_rajasthani_thali": {"tags": ["lighting", "crowded", "leaf", "regional"], "items": [
+      {"names": ["bajra khichdi", "churma"], "amount": 0.75, "unit": "cup"},
+      {"names": ["bajra roti"], "amount": 1, "unit": "piece"},
+      {"names": ["gatte"], "amount": 0.5, "unit": "cup"},
+      {"names": ["ker sangri"], "amount": 2, "unit": "tbsp"},
+      {"names": ["garlic chutney"], "amount": 1, "unit": "tbsp"},
+      {"names": ["green chutney"], "amount": 1, "unit": "tbsp"},
+      {"names": ["white butter"], "amount": 2, "unit": "tbsp"},
+      {"names": ["salad"], "amount": 0.25, "unit": "cup"},
+      {"names": ["kadhi"], "amount": 1, "unit": "katori"},
+      {"unknown": true, "amount": 1, "unit": "katori"},
+      {"unknown": true, "amount": 1, "unit": "katori"},
+      {"unknown": true, "amount": 1, "unit": "katori"},
+      {"unknown": true, "amount": 1, "unit": "katori"}
+    ]},
+    "13_indian_thali_2024": {"tags": ["angle"], "items": [
+      {"names": ["plain rice"], "amount": 1.5, "unit": "cup"},
+      {"names": ["roti"], "amount": 3, "unit": "piece"},
+      {"unknown": true, "amount": 1, "unit": "katori"},
+      {"names": ["matar paneer"], "amount": 1, "unit": "katori"},
+      {"names": ["salad"], "amount": 0.25, "unit": "cup"},
+      {"names": ["pickle"], "amount": 1, "unit": "tbsp"},
+      {"names": ["papad"], "amount": 1, "unit": "piece"}
+    ]},
+    "14_homemade_thali_maharashtrian_thali": {"tags": ["regional"], "items": [
+      {"names": ["plain rice"], "amount": 1, "unit": "cup"},
+      {"names": ["puri"], "amount": 4, "unit": "piece"},
+      {"names": ["dal"], "amount": 1, "unit": "katori"},
+      {"names": ["aloo bhaji", "aloo sabzi"], "amount": 0.5, "unit": "cup"},
+      {"names": ["patra"], "amount": 3, "unit": "piece"},
+      {"names": ["fried green chilli"], "amount": 1, "unit": "piece"}
+    ]},
+    "15_north_indian_vegetarian_thali_mb51": {"tags": ["partial", "angle"], "items": [
+      {"names": ["naan"], "amount": 1, "unit": "piece"},
+      {"names": ["boondi raita"], "amount": 1, "unit": "katori"},
+      {"names": ["dal makhani"], "amount": 1, "unit": "katori"},
+      {"names": ["kadai veg"], "amount": 1, "unit": "katori"},
+      {"names": ["salad"], "amount": 1, "unit": "piece"}
+    ]}
+  }
+}

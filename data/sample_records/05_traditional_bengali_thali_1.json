@@ -1,0 +1,64 @@
+{
+  "photo": "05_traditional_bengali_thali_1.jpg",
+  "model": "gemini-3.8-flash",
+  "tokens": {
+    "in": 2071,
+    "out": 301,
+    "thinking": 733
+  },
+  "reading": {
+    "items": [
+      {
+        "dish": "puri",
+        "alternatives": [
+          "bhatura",
+          "kachori"
+        ],
+        "amount": 4,
+        "unit": "piece",
+        "confidence": 0.95
+      },
+      {
+        "dish": "aloo curry",
+        "alternatives": [
+          "dum aloo",
+          "aloo sabzi",
+          "aloo bhaji"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.9
+      },
+      {
+        "dish": "begun bhaja",
+        "alternatives": [
+          "baingan curry"
+        ],
+        "amount": 1,
+        "unit": "piece",
+        "confidence": 0.95
+      },
+      {
+        "dish": "fruit salad",
+        "alternatives": [
+          "apple",
+          "salad"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.9
+      },
+      {
+        "dish": "sandesh",
+        "alternatives": [
+          "laddoo",
+          "rasgulla"
+        ],
+        "amount": 1,
+        "unit": "piece",
+        "confidence": 0.8
+      }
+    ],
+    "other_diners": []
+  }
+}

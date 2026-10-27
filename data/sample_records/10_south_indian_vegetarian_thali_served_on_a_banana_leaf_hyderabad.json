@@ -1,0 +1,134 @@
+{
+  "photo": "10_south_indian_vegetarian_thali_served_on_a_banana_leaf_hyderabad.jpg",
+  "model": "gemini-3.8-flash",
+  "tokens": {
+    "in": 2095,
+    "out": 747,
+    "thinking": 3880
+  },
+  "reading": {
+    "items": [
+      {
+        "dish": "veg biryani",
+        "alternatives": [
+          "veg pulao",
+          "jeera rice",
+          "chicken biryani"
+        ],
+        "amount": 1,
+        "unit": "cup",
+        "confidence": 0.8
+      },
+      {
+        "dish": "curd",
+        "alternatives": [
+          "sweet lassi",
+          "buttermilk",
+          "phirni"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.85
+      },
+      {
+        "dish": "dahi vada",
+        "alternatives": [
+          "boondi raita",
+          "mixed raita",
+          "curd"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.95
+      },
+      {
+        "dish": "gulab jamun",
+        "alternatives": [],
+        "amount": 1,
+        "unit": "piece",
+        "confidence": 0.98
+      },
+      {
+        "dish": "shahi paneer",
+        "alternatives": [
+          "malai kofta",
+          "paneer butter masala",
+          "dal makhani"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.75
+      },
+      {
+        "dish": "matar paneer",
+        "alternatives": [
+          "aloo matar",
+          "mixed veg curry",
+          "kurma"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.75
+      },
+      {
+        "dish": "kadai paneer",
+        "alternatives": [
+          "mixed veg curry",
+          "kadai veg",
+          "paneer butter masala"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.7
+      },
+      {
+        "dish": "mushroom masala",
+        "alternatives": [
+          "mixed veg curry",
+          "kurma",
+          "matar paneer"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.85
+      },
+      {
+        "dish": "paneer butter masala",
+        "alternatives": [
+          "shahi paneer",
+          "malai kofta",
+          "kadai paneer"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.85
+      },
+      {
+        "dish": "aloo gobi",
+        "alternatives": [
+          "cabbage cauliflower sabzi",
+          "mix veg dry",
+          "aloo bhaji"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.7
+      },
+      {
+        "dish": "papad",
+        "alternatives": [],
+        "amount": 1,
+        "unit": "piece",
+        "confidence": 0.98
+      },
+      {
+        "dish": "spring roll",
+        "alternatives": [],
+        "amount": 1,
+        "unit": "piece",
+        "confidence": 0.95
+      }
+    ],
+    "other_diners": []
+  }
+}

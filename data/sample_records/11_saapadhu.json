@@ -1,0 +1,54 @@
+{
+  "photo": "11_saapadhu.jpg",
+  "model": "gemini-3.8-flash",
+  "tokens": {
+    "in": 2087,
+    "out": 262,
+    "thinking": 893
+  },
+  "reading": {
+    "items": [
+      {
+        "dish": "plain rice",
+        "alternatives": [],
+        "amount": 2,
+        "unit": "cup",
+        "confidence": 0.95
+      },
+      {
+        "dish": "beans poriyal",
+        "alternatives": [
+          "thoran",
+          "mix veg dry",
+          "cabbage poriyal"
+        ],
+        "amount": 0.5,
+        "unit": "katori",
+        "confidence": 0.75
+      },
+      {
+        "dish": "keerai",
+        "alternatives": [
+          "dal palak",
+          "kootu",
+          "saag"
+        ],
+        "amount": 0.5,
+        "unit": "katori",
+        "confidence": 0.8
+      },
+      {
+        "dish": "kootu",
+        "alternatives": [
+          "dal",
+          "chana dal",
+          "mixed veg curry"
+        ],
+        "amount": 0.5,
+        "unit": "katori",
+        "confidence": 0.75
+      }
+    ],
+    "other_diners": []
+  }
+}

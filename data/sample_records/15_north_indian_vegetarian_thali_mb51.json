@@ -1,0 +1,59 @@
+{
+  "photo": "15_north_indian_vegetarian_thali_mb51.jpg",
+  "model": "gemini-3.8-flash",
+  "tokens": {
+    "in": 2071,
+    "out": 273,
+    "thinking": 668
+  },
+  "reading": {
+    "items": [
+      {
+        "dish": "naan",
+        "alternatives": [
+          "kulcha",
+          "tandoori roti",
+          "paratha"
+        ],
+        "amount": 1,
+        "unit": "piece",
+        "confidence": 0.85
+      },
+      {
+        "dish": "boondi raita",
+        "alternatives": [
+          "mixed raita",
+          "curd"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.95
+      },
+      {
+        "dish": "dal makhani",
+        "alternatives": [
+          "dal",
+          "sambar",
+          "chana dal"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.8
+      },
+      {
+        "dish": "kadai paneer",
+        "alternatives": [
+          "kadai veg",
+          "mixed veg curry",
+          "chicken curry"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.7
+      }
+    ],
+    "other_diners": [
+      "bowl"
+    ]
+  }
+}

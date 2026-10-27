@@ -1,0 +1,66 @@
+{
+  "photo": "08_indian_thali_with_poori_and_rice.jpg",
+  "model": "gemini-3.8-flash",
+  "tokens": {
+    "in": 2109,
+    "out": 311,
+    "thinking": 4469
+  },
+  "reading": {
+    "items": [
+      {
+        "dish": "plain rice",
+        "alternatives": [
+          "jeera rice",
+          "ghee rice"
+        ],
+        "amount": 1.5,
+        "unit": "cup",
+        "confidence": 0.95
+      },
+      {
+        "dish": "puri",
+        "alternatives": [
+          "bhatura",
+          "kachori"
+        ],
+        "amount": 3,
+        "unit": "piece",
+        "confidence": 0.95
+      },
+      {
+        "dish": "dal",
+        "alternatives": [
+          "moong dal",
+          "sambar",
+          "kadhi"
+        ],
+        "amount": 2,
+        "unit": "katori",
+        "confidence": 0.9
+      },
+      {
+        "dish": "aloo curry",
+        "alternatives": [
+          "mixed veg curry",
+          "sambar",
+          "chole"
+        ],
+        "amount": 2,
+        "unit": "katori",
+        "confidence": 0.7
+      },
+      {
+        "dish": "curd",
+        "alternatives": [
+          "buttermilk",
+          "sweet lassi"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.95
+      }
+    ],
+    "other_diners": []
+  }
+}

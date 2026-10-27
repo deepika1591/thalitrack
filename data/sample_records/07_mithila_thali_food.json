@@ -1,0 +1,111 @@
+{
+  "photo": "07_mithila_thali_food.jpg",
+  "model": "gemini-3.8-flash",
+  "tokens": {
+    "in": 2071,
+    "out": 564,
+    "thinking": 3033
+  },
+  "reading": {
+    "items": [
+      {
+        "dish": "dal",
+        "alternatives": [
+          "moong dal",
+          "sambar",
+          "chana dal"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.9
+      },
+      {
+        "dish": "aloo curry",
+        "alternatives": [
+          "dum aloo",
+          "mixed veg curry",
+          "chicken curry"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.85
+      },
+      {
+        "dish": "curd",
+        "alternatives": [
+          "boondi raita",
+          "dahi vada",
+          "plain curd"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.95
+      },
+      {
+        "dish": "roti",
+        "alternatives": [
+          "paratha",
+          "tandoori roti",
+          "naan"
+        ],
+        "amount": 2,
+        "unit": "piece",
+        "confidence": 0.95
+      },
+      {
+        "dish": "moong dal halwa",
+        "alternatives": [
+          "churma",
+          "sooji halwa",
+          "unknown"
+        ],
+        "amount": 1,
+        "unit": "piece",
+        "confidence": 0.65
+      },
+      {
+        "dish": "saag",
+        "alternatives": [
+          "keerai",
+          "methi aloo",
+          "dal palak"
+        ],
+        "amount": 1,
+        "unit": "tbsp",
+        "confidence": 0.75
+      },
+      {
+        "dish": "pickle",
+        "alternatives": [
+          "garlic chutney",
+          "tomato chutney"
+        ],
+        "amount": 1,
+        "unit": "tbsp",
+        "confidence": 0.8
+      },
+      {
+        "dish": "salad",
+        "alternatives": [
+          "kosambari",
+          "fruit salad"
+        ],
+        "amount": 1,
+        "unit": "tbsp",
+        "confidence": 0.9
+      },
+      {
+        "dish": "aloo fry",
+        "alternatives": [
+          "arbi fry",
+          "karela fry",
+          "pickle"
+        ],
+        "amount": 1,
+        "unit": "tbsp",
+        "confidence": 0.7
+      }
+    ],
+    "other_diners": []
+  }
+}

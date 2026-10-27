@@ -1,0 +1,115 @@
+{
+  "photo": "06_a_non_vegetarian_thali_in_karnataka.jpg",
+  "model": "gemini-3.8-flash",
+  "tokens": {
+    "in": 2071,
+    "out": 590,
+    "thinking": 1638
+  },
+  "reading": {
+    "items": [
+      {
+        "dish": "plain rice",
+        "alternatives": [
+          "ghee rice",
+          "jeera rice"
+        ],
+        "amount": 1.5,
+        "unit": "cup",
+        "confidence": 0.95
+      },
+      {
+        "dish": "roti",
+        "alternatives": [
+          "paratha",
+          "tandoori roti"
+        ],
+        "amount": 2,
+        "unit": "piece",
+        "confidence": 0.9
+      },
+      {
+        "dish": "chicken curry",
+        "alternatives": [
+          "mutton curry"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.9
+      },
+      {
+        "dish": "chicken fry",
+        "alternatives": [
+          "fish fry",
+          "chicken curry"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.8
+      },
+      {
+        "dish": "curd",
+        "alternatives": [
+          "onion raita",
+          "boondi raita"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.95
+      },
+      {
+        "dish": "semiya payasam",
+        "alternatives": [
+          "payasam",
+          "rice kheer",
+          "phirni"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.95
+      },
+      {
+        "dish": "dal",
+        "alternatives": [
+          "moong dal",
+          "chana dal",
+          "sambar"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.9
+      },
+      {
+        "dish": "rasam",
+        "alternatives": [
+          "sambar",
+          "dal"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.9
+      },
+      {
+        "dish": "sambar",
+        "alternatives": [
+          "rasam",
+          "kootu",
+          "dal"
+        ],
+        "amount": 1,
+        "unit": "katori",
+        "confidence": 0.9
+      },
+      {
+        "dish": "sandige",
+        "alternatives": [
+          "papad"
+        ],
+        "amount": 1,
+        "unit": "piece",
+        "confidence": 0.85
+      }
+    ],
+    "other_diners": []
+  }
+}

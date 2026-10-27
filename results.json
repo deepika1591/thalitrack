@@ -1,0 +1,15 @@
+{
+  "photos scored": 2,
+  "dish recall %": 83,
+  "dish precision %": 89,
+  "count accuracy %": 100,
+  "tokens per photo": 2942,
+  "missed": [
+    "01 aloo curry"
+  ],
+  "photo meals": 1,
+  "kept as suggested %": 100,
+  "corrections per meal, by day": {
+    "10/26": 0
+  }
+}
